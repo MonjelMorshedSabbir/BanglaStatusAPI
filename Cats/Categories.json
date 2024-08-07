@@ -1,10 +1,10 @@
 [
   {
-    "categories": "স্বপ্ন স্ট্যাটাস",
+    "category": "স্বপ্ন স্ট্যাটাস",
     "fileName": "shopnoStatus"
   },
   {
-    "categories": "হাসির স্ট্যাটাস",
+    "category": "হাসির স্ট্যাটাস",
     "fileName": "hasirStatus"
   }
 ]
