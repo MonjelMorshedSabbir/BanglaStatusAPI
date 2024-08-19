@@ -1,0 +1,110 @@
+{
+    "apiUrlDescription": "Base URL for all API operations",
+    "apiEndpoints": {
+        "homeBanner": "https://monjelmorshedsabbir.github.io/BanglaStatusAPI/Admin/banner.json",
+        "homeBannerDescription": "Endpoint for fetching slider images and associated links/messages",
+        "allCategories": "https://monjelmorshedsabbir.github.io/BanglaStatusAPI/Cats/Categories.json",
+        "allCategoriesDescription": "Endpoint for retrieving all categories and related information",
+        "categoryApiPrefix": "https://monjelmorshedsabbir.github.io/BanglaStatusAPI/Cats/indivisuals/",
+        "categoryApiPrefixDescription": "Prefix for each category's API endpoint (prefix + fileName = final URL)",
+        "backgroundImages": "https://monjelmorshedsabbir.github.io/BanglaStatusAPI/Admin/images.json",
+        "backgroundImagesDescription": "Endpoint for fetching background images"
+    },
+    "supportUrlsDescription": "URLs for additional support and information",
+    "supportUrls": {
+        "complaintForm": "https://script.google.com/macros/s/AKfycbzpM8gtev7CdH3nCz3z5JRMtkOlFze38ZGVwqduj94jzzgU33VJaj4Zn7j25XGaHeML/exec",
+        "complaintFormDescription": "URL for submitting complaints or feedback",
+        "moreApps": "https://play.google.com/store/apps/dev?id=8296770151181831709",
+        "moreAppsDescription": "URL to explore our other apps on Google Play",
+        "termsAndConditions": "https://sabbirmms.github.io/MyPortfolio/",
+        "termsAndConditionsDescription": "URL for terms and conditions",
+        "privacyPolicy": "https://sabbirmms.github.io/MyPortfolio/",
+        "privacyPolicyDescription": "URL for privacy policy"
+    },
+    "adminSettingsDescription": "Configuration values for basic admin controls",
+    "adminSettings": {
+        "minRequiredAppVersion": 1,
+        "minRequiredAppVersionDescription": "Minimum app version required to use the app",
+        "reportIntervalHours": 6,
+        "reportIntervalHoursDescription": "Interval (in hours) between allowed user reports or suggestions",
+        "initialCoins": 5,
+        "initialCoinsDescription": "Default coin balance for new users"
+    },
+    "adsSettingsDescription": "Configuration for all ad-related settings",
+    "adsSettings": {
+        "adsEnabled": false,
+        "adsEnabledDescription": "Toggle to enable or disable ads in the app",
+        "adDisplayIntervalMinutes": 2,
+        "adDisplayIntervalMinutesDescription": "Interval (in minutes) for displaying ads to users",
+        "rewardedAds": {
+            "enabled": false,
+            "enabledDescription": "Toggle to enable or disable rewarded ads",
+            "displayIntervalMinutes": 15,
+            "displayIntervalMinutesDescription": "Interval (in minutes) for displaying rewarded ads to users"
+        },
+        "adUnitIds": {
+            "adMob": {
+                "appId": "",
+                "appIdDescription": "AdMob application ID",
+                "publisherId": "",
+                "publisherIdDescription": "AdMob publisher ID",
+                "bannerAdUnitId": "",
+                "bannerAdUnitIdDescription": "AdMob banner ad unit ID",
+                "interstitialAdUnitId": "",
+                "interstitialAdUnitIdDescription": "AdMob interstitial ad unit ID",
+                "nativeAdUnitId": "",
+                "nativeAdUnitIdDescription": "AdMob native ad unit ID",
+                "rewardedAdUnitId": "",
+                "rewardedAdUnitIdDescription": "AdMob rewarded ad unit ID"
+            },
+            "facebookAds": {
+                "appId": "",
+                "appIdDescription": "Facebook application ID (optional)",
+                "bannerAdUnitId": "",
+                "bannerAdUnitIdDescription": "Facebook banner ad unit ID",
+                "interstitialAdUnitId": "",
+                "interstitialAdUnitIdDescription": "Facebook interstitial ad unit ID",
+                "nativeAdUnitId": "",
+                "nativeAdUnitIdDescription": "Facebook native ad unit ID",
+                "rewardedAdUnitId": "",
+                "rewardedAdUnitIdDescription": "Facebook rewarded ad unit ID"
+            },
+            "applovin": {
+                "appId": "",
+                "appIdDescription": "AppLovin application ID (optional)",
+                "bannerAdUnitId": "",
+                "bannerAdUnitIdDescription": "AppLovin banner ad unit ID",
+                "interstitialAdUnitId": "",
+                "interstitialAdUnitIdDescription": "AppLovin interstitial ad unit ID",
+                "nativeAdUnitId": "",
+                "nativeAdUnitIdDescription": "AppLovin native ad unit ID",
+                "rewardedAdUnitId": "",
+                "rewardedAdUnitIdDescription": "AppLovin rewarded ad unit ID"
+            },
+            "unityAds": {
+                "gameId": "",
+                "gameIdDescription": "Unity Ads game ID",
+                "bannerAdUnitId": "",
+                "bannerAdUnitIdDescription": "Unity Ads banner ad unit ID",
+                "interstitialAdUnitId": "",
+                "interstitialAdUnitIdDescription": "Unity Ads interstitial ad unit ID",
+                "nativeAdUnitId": "",
+                "nativeAdUnitIdDescription": "Unity Ads native ad unit ID",
+                "rewardedAdUnitId": "",
+                "rewardedAdUnitIdDescription": "Unity Ads rewarded ad unit ID"
+            },
+            "startIoAds": {
+                "appKey": "",
+                "appKeyDescription": "Start.io app key",
+                "bannerAdUnitId": "",
+                "bannerAdUnitIdDescription": "Start.io banner ad unit ID",
+                "interstitialAdUnitId": "",
+                "interstitialAdUnitIdDescription": "Start.io interstitial ad unit ID",
+                "nativeAdUnitId": "",
+                "nativeAdUnitIdDescription": "Start.io native ad unit ID",
+                "rewardedAdUnitId": "",
+                "rewardedAdUnitIdDescription": "Start.io rewarded ad unit ID"
+            }
+        }
+    }
+}
