@@ -32,7 +32,7 @@
     },
     "adsSettingsDescription": "Configuration for all ad-related settings",
     "adsSettings": {
-        "adsEnabled": false,
+        "adsEnabled": true,
         "adsEnabledDescription": "Toggle to enable or disable ads in the app",
         "adDisplayIntervalMinutes": 2,
         "adDisplayIntervalMinutesDescription": "Interval (in minutes) for displaying ads to users",
