@@ -1,166 +1,207 @@
 [
-  {
-      "category": "সুন্দর প্রাকৃতিক ক্যাপশন",
-      "fileName": "beautifulNature.json"
-  },
-  {
-      "category": "সেরা জীবনের ক্যাপশন",
-      "fileName": "bestLife.json"
-  },
-  {
-      "category": "বড় ক্যাপশন",
-      "fileName": "big.json"
-  },
-  {
-      "category": "ছেলেদের ক্যাপশন",
-      "fileName": "boys.json"
-  },
-  {
-      "category": "মেয়েদের ক্যাপশন",
-      "fileName": "girls.json"
-  },
-  {
-      "category": "স্কুল জীবনের ক্যাপশন",
-      "fileName": "schoolLife.json"
-  },
-  {
-      "category": "সিংঙ্গেল ক্যাপশন",
-      "fileName": "singleCaption.json"
-  },
-  {
-      "category": "হোয়াটসঅ্যাপ ক্যাপশন",
-      "fileName": "whatsApp.json"
-  },
-  {
-      "category": "অনুপ্রেরণার ক্যাপশন",
-      "fileName": "onuprerona.json"
-  },
-  {
-      "category": "অভিমানী ক্যাপশন",
-      "fileName": "ovimani.json"
-  },
-  {
-      "category": "অসাধারণ ক্যাপশন",
-      "fileName": "oshadharon.json"
-  },
-  {
-      "category": "ইমোশনাল ক্যাপশন",
-      "fileName": "emotional.json"
-  },
-  {
-      "category": "ইসলামিক ক্যাপশন",
-      "fileName": "islamic.json"
-  },
-  {
-      "category": "ঈদের ক্যাপশন",
-      "fileName": "eid.json"
-  },
-  {
-      "category": "উপদেশের ক্যাপশন",
-      "fileName": "upodesh.json"
-  },
-  {
-      "category": "একাকিত্বের ক্যাপশন",
-      "fileName": "ekakitto.json"
-  },
-  {
-      "category": "এটিটিউড ক্যাপশন",
-      "fileName": "attitude.json"
-  },
-  {
-      "category": "জন্মদিনের ক্যাপশন",
-      "fileName": "jonmodin.json"
-  },
-  {
-      "category": "দুঃখ-কষ্টের ক্যাপশন",
-      "fileName": "dukkhoKosto.json"
-  },
-  {
-      "category": "নারীর ক্যাপশন",
-      "fileName": "nari.json"
-  },
-  {
-      "category": "নিজেকে নিয়ে ক্যাপশন",
-      "fileName": "nijekeNiye.json"
-  },
-  {
-      "category": "পরিবারের ক্যাপশন",
-      "fileName": "poribar.json"
-  },
-  {
-      "category": "পরিশ্রমের ক্যাপশন",
-      "fileName": "porisrom.json"
-  },
-  {
-      "category": "ফেসবুক ক্যাপশন",
-      "fileName": "facebook.json"
-  },
-  {
-      "category": "বন্ধুর ক্যাপশন",
-      "fileName": "bondhu.json"
-  },
-  {
-      "category": "বয়ফ্রেন্ডের ক্যাপশন",
-      "fileName": "boyfriend.json"
-  },
-  {
-      "category": "বিশ্বাসের ক্যাপশন",
-      "fileName": "bissash.json"
-  },
-  {
-      "category": "ব্যর্থতার ক্যাপশন",
-      "fileName": "bertho.json"
-  },
-  {
-      "category": "ব্রেকআপের ক্যাপশন",
-      "fileName": "breakup.json"
-  },
-  {
-      "category": "ভালোবাসার ক্যাপশন",
-      "fileName": "valobasa.json"
-  },
-  {
-      "category": "ভ্রমণের ক্যাপশন",
-      "fileName": "vromon.json"
-  },
-  {
-      "category": "মায়ের ক্যাপশন",
-      "fileName": "ma.json"
-  },
-  {
-      "category": "মৃত্যুর ক্যাপশন",
-      "fileName": "mrittu.json"
-  },
-  {
-      "category": "রাগি ক্যাপশন",
-      "fileName": "ragi.json"
-  },
-  {
-      "category": "রোমান্টিক ক্যাপশন",
-      "fileName": "romantic.json"
-  },
-  {
-      "category": "শিক্ষামূলক উক্তি",
-      "fileName": "shikkhamulokUkti.json"
-  },
-  {
-      "category": "শিক্ষামূলক ক্যাপশন",
-      "fileName": "shikkhamulokStatus.json"
-  },
-  {
-      "category": "সাফল্যের ক্যাপশন",
-      "fileName": "safollo.json"
-  },
-  {
-      "category": "স্টাইলিশ ফেসবুক ক্যাপশন",
-      "fileName": "stylishFB.json"
-  },
-  {
-      "category": "স্বপ্নের ক্যাপশন",
-      "fileName": "shopno.json"
-  },
-  {
-      "category": "হাসির ক্যাপশন",
-      "fileName": "hasir.json"
-  }
+    {
+        "category": "অনুপ্রেরণার ক্যাপশন",
+        "fileName": "onuprerona.json",
+        "iconUrl": "https://i.postimg.cc/9MCMvZVV/1inspiration.png"
+    },
+    {
+        "category": "অভিমানী ক্যাপশন",
+        "fileName": "ovimani.json",
+        "iconUrl": "https://i.postimg.cc/VNjvG4xD/2arrogant.png"
+    },
+    {
+        "category": "অসাধারণ ক্যাপশন",
+        "fileName": "oshadharon.json",
+        "iconUrl": "https://i.postimg.cc/sx222zvN/3wonderful.png"
+    },
+    {
+        "category": "ইমোশনাল ক্যাপশন",
+        "fileName": "emotional.json",
+        "iconUrl": "https://i.postimg.cc/Y9R9k0qF/4emotional.png"
+    },
+    {
+        "category": "ইসলামিক ক্যাপশন",
+        "fileName": "islamic.json",
+        "iconUrl": "https://i.postimg.cc/D0YwJNGy/5isamic.png"
+    },
+    {
+        "category": "ঈদের ক্যাপশন",
+        "fileName": "eid.json",
+        "iconUrl": "https://i.postimg.cc/L4yXbJWK/6eid.png"
+    },
+    {
+        "category": "উপদেশের ক্যাপশন",
+        "fileName": "upodesh.json",
+        "iconUrl": "https://i.postimg.cc/sDq23tyT/7advice.png"
+    },
+    {
+        "category": "একাকিত্বের ক্যাপশন",
+        "fileName": "ekakitto.json",
+        "iconUrl": "https://i.postimg.cc/SNJsFy0X/8ekakito.png"
+    },
+    {
+        "category": "এটিটিউড ক্যাপশন",
+        "fileName": "attitude.json",
+        "iconUrl": "https://i.postimg.cc/6pZpqYpt/9attitude.png"
+    },
+    {
+        "category": "ছেলেদের ক্যাপশন",
+        "fileName": "boys.json",
+        "iconUrl": "https://i.postimg.cc/BvGQKHjD/10boys.png"
+    },
+    {
+        "category": "জন্মদিনের ক্যাপশন",
+        "fileName": "jonmodin.json",
+        "iconUrl": "https://i.postimg.cc/QMkNkC7z/11birthday.png"
+    },
+    {
+        "category": "দুঃখ-কষ্টের ক্যাপশন",
+        "fileName": "dukkhoKosto.json",
+        "iconUrl": "https://i.postimg.cc/DZvvChdw/12sad.png"
+    },
+    {
+        "category": "নারীর ক্যাপশন",
+        "fileName": "nari.json",
+        "iconUrl": "https://i.postimg.cc/Gt9cCjf0/13woman.png"
+    },
+    {
+        "category": "নিজেকে নিয়ে ক্যাপশন",
+        "fileName": "nijekeNiye.json",
+        "iconUrl": "https://i.postimg.cc/k4TnzHfF/14ownself.png"
+    },
+    {
+        "category": "পরিবারের ক্যাপশন",
+        "fileName": "poribar.json",
+        "iconUrl": "https://i.postimg.cc/qqYpM3fN/15family.png"
+    },
+    {
+        "category": "পরিশ্রমের ক্যাপশন",
+        "fileName": "porisrom.json",
+        "iconUrl": "https://i.postimg.cc/xjFfPWk9/16hardwork.png"
+    },
+    {
+        "category": "ফেসবুক ক্যাপশন",
+        "fileName": "facebook.json",
+        "iconUrl": "https://i.postimg.cc/15kykwcT/17facebook.png"
+    },
+    {
+        "category": "বড় ক্যাপশন",
+        "fileName": "big.json",
+        "iconUrl": "https://i.postimg.cc/J4D1YPJZ/18Big.png"
+    },
+    {
+        "category": "বন্ধুর ক্যাপশন",
+        "fileName": "bondhu.json",
+        "iconUrl": "https://i.postimg.cc/nhqnpr3L/19friend.png"
+    },
+    {
+        "category": "বয়ফ্রেন্ডের ক্যাপশন",
+        "fileName": "boyfriend.json",
+        "iconUrl": "https://i.postimg.cc/g0dmJp7H/20trust.png"
+    },
+    {
+        "category": "বিশ্বাসের ক্যাপশন",
+        "fileName": "bissash.json",
+        "iconUrl": "https://i.postimg.cc/N04Y2Vqq/21failure.png"
+    },
+    {
+        "category": "ব্যর্থতার ক্যাপশন",
+        "fileName": "bertho.json",
+        "iconUrl": "https://i.postimg.cc/502JB3bH/22heart.png"
+    },
+    {
+        "category": "ব্রেকআপের ক্যাপশন",
+        "fileName": "breakup.json",
+        "iconUrl": "https://i.postimg.cc/HxvgByk6/23boyfriend.png"
+    },
+    {
+        "category": "ভালোবাসার ক্যাপশন",
+        "fileName": "valobasa.json",
+        "iconUrl": "https://i.postimg.cc/2yqfJSqr/24heart.png"
+    },
+    {
+        "category": "ভ্রমণের ক্যাপশন",
+        "fileName": "vromon.json",
+        "iconUrl": "https://i.postimg.cc/yxwzzC99/25vromon.png"
+    },
+    {
+        "category": "মায়ের ক্যাপশন",
+        "fileName": "ma.json",
+        "iconUrl": "https://i.postimg.cc/4N9gQnk1/26care.png"
+    },
+    {
+        "category": "মৃত্যুর ক্যাপশন",
+        "fileName": "mrittu.json",
+        "iconUrl": "https://i.postimg.cc/htRqygKR/27dead.png"
+    },
+    {
+        "category": "মেয়েদের ক্যাপশন",
+        "fileName": "girls.json",
+        "iconUrl": "https://i.postimg.cc/CMt08kt1/28female-avatar.png"
+    },
+    {
+        "category": "রাগি ক্যাপশন",
+        "fileName": "ragi.json",
+        "iconUrl": "https://i.postimg.cc/dVRcgX0k/29emotional.png"
+    },
+    {
+        "category": "রোমান্টিক ক্যাপশন",
+        "fileName": "romantic.json",
+        "iconUrl": "https://i.postimg.cc/rp82TJdh/30romantic-date.png"
+    },
+    {
+        "category": "শিক্ষামূলক উক্তি",
+        "fileName": "shikkhamulokUkti.json",
+        "iconUrl": "https://i.postimg.cc/pdqbLFzP/31edu.png"
+    },
+    {
+        "category": "শিক্ষামূলক ক্যাপশন",
+        "fileName": "shikkhamulokStatus.json",
+        "iconUrl": "https://i.postimg.cc/63qs2pfn/32edu.png"
+    },
+    {
+        "category": "সাফল্যের ক্যাপশন",
+        "fileName": "safollo.json",
+        "iconUrl": "https://i.postimg.cc/Kj3dfpVY/33success.png"
+    },
+    {
+        "category": "সিংঙ্গেল ক্যাপশন",
+        "fileName": "singleCaption.json",
+        "iconUrl": "https://i.postimg.cc/bJB7QfmM/34happy.png"
+    },
+    {
+        "category": "সুন্দর প্রাকৃতিক ক্যাপশন",
+        "fileName": "beautifulNature.json",
+        "iconUrl": "https://i.postimg.cc/wxtvnqY1/35park.png"
+    },
+    {
+        "category": "সেরা জীবনের ক্যাপশন",
+        "fileName": "bestLife.json",
+        "iconUrl": "https://i.postimg.cc/0rghBdR0/36balance-scale.png"
+    },
+    {
+        "category": "স্কুল জীবনের ক্যাপশন",
+        "fileName": "schoolLife.json",
+        "iconUrl": "https://i.postimg.cc/J4Zh4pnm/37school-bag.png"
+    },
+    {
+        "category": "স্টাইলিশ ফেসবুক ক্যাপশন",
+        "fileName": "stylishFB.json",
+        "iconUrl": "https://i.postimg.cc/MZhTSCzd/38fb.png"
+    },
+    {
+        "category": "স্বপ্নের ক্যাপশন",
+        "fileName": "shopno.json",
+        "iconUrl": "https://i.postimg.cc/NjtjyR9X/39dream.png"
+    },
+    {
+        "category": "হাসির ক্যাপশন",
+        "fileName": "hasir.json",
+        "iconUrl": "https://i.postimg.cc/ht0PVhT5/40joke.png"
+    },
+    {
+        "category": "হোয়াটসঅ্যাপ ক্যাপশন",
+        "fileName": "whatsApp.json",
+        "iconUrl": "https://i.postimg.cc/jjdqcKhd/41whatsapp.png"
+    }
 ]
