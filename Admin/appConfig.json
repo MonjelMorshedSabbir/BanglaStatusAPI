@@ -28,11 +28,13 @@
         "reportIntervalHours": 6,
         "reportIntervalHoursDescription": "Interval (in hours) between allowed user reports or suggestions",
         "initialCoins": 5,
-        "initialCoinsDescription": "Default coin balance for new users"
+        "initialCoinsDescription": "Default coin balance for new users",
+        "showCatIcon": true,
+        "showCatIconDescription": "Toggle to show or hide icons at the top of each category item"
     },
     "adsSettingsDescription": "Configuration for all ad-related settings",
     "adsSettings": {
-        "adsEnabled": true,
+        "adsEnabled": false,
         "adsEnabledDescription": "Toggle to enable or disable ads in the app",
         "adDisplayIntervalMinutes": 2,
         "adDisplayIntervalMinutesDescription": "Interval (in minutes) for displaying ads to users",
