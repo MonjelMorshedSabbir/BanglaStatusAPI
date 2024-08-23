@@ -1,13 +1,13 @@
 [
     {
         "imageUrl": "https://images.pexels.com/photos/346529/pexels-photo-346529.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "actionUrl": "https://sabbirmms.github.io/MyPortfolio/",
+        "actionUrl": "",
         "optionalMessage": ""
     },
     {
         "imageUrl": "https://images.pexels.com/photos/147411/italy-mountains-dawn-daybreak-147411.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "actionUrl": "https://www.facebook.com/search/top/?q=Monjel+Morshed+Sabbir",
-        "optionalMessage": "Search for developer"
+        "actionUrl": "",
+        "optionalMessage": ""
     },
     {
         "imageUrl": "https://images.pexels.com/photos/247599/pexels-photo-247599.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
