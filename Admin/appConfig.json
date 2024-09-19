@@ -35,11 +35,11 @@
         "showCatIconDescription": "Toggle to show or hide icons at the top of each category item",
         "isDefMainGrid":true,
         "isDefMainGridDescription": "Toggle to use default or custom grid layout for categories",
-        "isDefSound": true,
+        "isDefSound": false,
         "isDefSoundDescription": "Toggle to enable or disable sound effects for user interactions",
         "isDefVibration": true,
         "isDefVibrationDescription": "Toggle to enable or disable vibration for user interactions",
-        "isDefWatermark": true,
+        "isDefWatermark": false,
         "isDefWatermarkDescription": "Toggle to show or hide watermark at the bottom of each image"
     },
     "adsSettingsDescription": "Configuration for all ad-related settings",
