@@ -33,7 +33,7 @@
         "initialCoinsDescription": "Default coin balance for new users",
         "showCatIcon": true,
         "showCatIconDescription": "Toggle to show or hide icons at the top of each category item",
-        "isDefMainGrid":false,
+        "isDefMainGrid":true,
         "isDefMainGridDescription": "Toggle to use default or custom grid layout for categories",
         "isDefSound": false,
         "isDefSoundDescription": "Toggle to enable or disable sound effects for user interactions",
