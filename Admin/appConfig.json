@@ -23,7 +23,7 @@
     },
     "adminSettingsDescription": "Configuration values for basic admin controls",
     "adminSettings": {
-        "appFullName": "নতুন বাংলা স্ট্যাটাস ও ক্যাপশন",
+        "appFullName": "বাংলা স্ট্যাটাস ও ক্যাপশন",
         "appFullNameDescription":"Extented app name",
         "minRequiredAppVersion": 1,
         "minRequiredAppVersionDescription": "Minimum app version required to use the app",
