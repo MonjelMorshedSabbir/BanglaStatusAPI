@@ -52,10 +52,20 @@
             "enabled": false,
             "enabledDescription": "Toggle to enable or disable rewarded ads",
             "displayIntervalMinutes": 15,
-            "displayIntervalMinutesDescription": "Interval (in minutes) for displaying rewarded ads to users"
+            "displayIntervalMinutesDescription": "Interval (in minutes) for displaying rewarded ads to users",
+            "rewardPoint":5,
+            "rewardPointDescription": "Number of points required to watch a rewarded ad"
+        },
+        "nativeAds":{
+            "firstPlacement":3,
+            "firstPlacementDescription": "First placement for native ads",
+            "placementPosition":15,
+            "placementPositionDescription": "Placement position for native ads"
         },
         "adUnitIds": {
             "adMob": {
+                "isAdmobEnabled": true,
+                "isAdMobEnabledDescription": "Toggle to enable or disable AdMob ads",
                 "appId": "",
                 "appIdDescription": "AdMob application ID",
                 "publisherId": "",
