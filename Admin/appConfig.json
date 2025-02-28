@@ -8,7 +8,7 @@
         "categoryApiPrefix": "https://monjelmorshedsabbir.github.io/BanglaStatusAPI/Cats/indivisuals/",
         "categoryApiPrefixDescription": "Prefix for each category's API endpoint (prefix + fileName = final URL)",
         "backgroundImages": "https://monjelmorshedsabbir.github.io/BanglaStatusAPI/Admin/images.json",
-        "backgroundImagesDescription": "Endpoint for fetching background images"
+        "backgroundImagesDescription": "Endpoint for fetching background images in edit or create activity"
     },
     "supportUrlsDescription": "URLs for additional support and information",
     "supportUrls": {
@@ -46,8 +46,8 @@
     "adsSettings": {
         "adsEnabled": false,
         "adsEnabledDescription": "Toggle to enable or disable ads in the app",
-        "adDisplayIntervalMinutes": 2,
-        "adDisplayIntervalMinutesDescription": "Interval (in minutes) for displaying ads to users",
+        "adDisplayIntervalSec": 120,
+        "adDisplayIntervalSecDescription": "Interval (in Seconds) for displaying ads to users",
         "rewardedAds": {
             "enabled": false,
             "enabledDescription": "Toggle to enable or disable rewarded ads",
