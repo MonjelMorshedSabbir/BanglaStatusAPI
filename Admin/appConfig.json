@@ -46,12 +46,12 @@
     "adsSettings": {
         "adsEnabled": true,
         "adsEnabledDescription": "Toggle to enable or disable ads in the app",
-        "adDisplayIntervalSec": 120,
+        "adDisplayIntervalSec": 40,
         "adDisplayIntervalSecDescription": "Interval (in Seconds) for displaying ads to users",
         "rewardedAds": {
             "enabled": false,
             "enabledDescription": "(Not Using Yet) Toggle to enable or disable rewarded ads",
-            "displayIntervalMinutes": 15,
+            "displayIntervalMinutes": 5,
             "displayIntervalMinutesDescription": "Interval (in minutes) for displaying rewarded ads to users",
             "rewardPoint":5,
             "rewardPointDescription": "Number of points required to watch a rewarded ad"
