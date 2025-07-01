@@ -25,7 +25,7 @@
     "adminSettings": {
         "appFullName": "বাংলা স্ট্যাটাস ও ক্যাপশন",
         "appFullNameDescription":"Extented app name",
-        "minRequiredAppVersion": 1,
+        "minRequiredAppVersion": 12,
         "minRequiredAppVersionDescription": "Minimum app version required to use the app",
         "reportIntervalHours": 6,
         "reportIntervalHoursDescription": "Interval (in hours) between allowed user reports or suggestions",
